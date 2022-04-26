@@ -1,0 +1,71 @@
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\ApplicationInsights.config
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\csc.exe
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\System.Collections.Immutable.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\System.Reflection.Metadata.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\vbc.exe
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\VBCSCompiler.exe
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\roslyn\VBCSCompiler.exe.config
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\GoodsMovers.dll.config
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\GoodsMovers.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\GoodsMovers.pdb
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.Agent.Intercept.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.DependencyCollector.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.Web.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.WindowsServer.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.ApplicationInsights.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.DependencyCollector.xml
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.Web.xml
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.AI.WindowsServer.xml
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.ApplicationInsights.xml
+G:\GoodsMovers\GoodsMovers\GoodsMovers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\GoodsMovers\GoodsMovers\GoodsMovers\obj\Debug\GoodsMovers.csprojResolveAssemblyReference.cache
+G:\GoodsMovers\GoodsMovers\GoodsMovers\obj\Debug\GoodsMovers.dll
+G:\GoodsMovers\GoodsMovers\GoodsMovers\obj\Debug\GoodsMovers.pdb
+D:\BE project\GoodsMovers\GoodsMovers\bin\ApplicationInsights.config
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\csc.exe
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\System.Collections.Immutable.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\System.Reflection.Metadata.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\vbc.exe
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\VBCSCompiler.exe
+D:\BE project\GoodsMovers\GoodsMovers\bin\roslyn\VBCSCompiler.exe.config
+D:\BE project\GoodsMovers\GoodsMovers\bin\GoodsMovers.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\GoodsMovers.pdb
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.DependencyCollector.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.Web.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.WindowsServer.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.ApplicationInsights.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\mscorlib.dll
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.DependencyCollector.xml
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.Web.xml
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.AI.WindowsServer.xml
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.ApplicationInsights.xml
+D:\BE project\GoodsMovers\GoodsMovers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BE project\GoodsMovers\GoodsMovers\bin\normidna.nlp
+D:\BE project\GoodsMovers\GoodsMovers\bin\normnfc.nlp
+D:\BE project\GoodsMovers\GoodsMovers\bin\normnfd.nlp
+D:\BE project\GoodsMovers\GoodsMovers\bin\normnfkc.nlp
+D:\BE project\GoodsMovers\GoodsMovers\bin\normnfkd.nlp
+D:\BE project\GoodsMovers\GoodsMovers\obj\Debug\GoodsMovers.csprojResolveAssemblyReference.cache
+D:\BE project\GoodsMovers\GoodsMovers\obj\Debug\GoodsMovers.dll
+D:\BE project\GoodsMovers\GoodsMovers\obj\Debug\GoodsMovers.pdb
